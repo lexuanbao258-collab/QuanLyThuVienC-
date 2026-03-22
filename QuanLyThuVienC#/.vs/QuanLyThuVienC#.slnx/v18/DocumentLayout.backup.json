@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\QuanLyThuVienC-\\QuanLyThuVienC#\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\QuanLyThuVienC-\\QuanLyThuVienC#\\QuanLyThuVien_C#\\Forms\\FrmMain.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyThuVien_C#\\Forms\\FrmMain.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\QuanLyThuVienC-\\QuanLyThuVienC#\\QuanLyThuVien_C#\\Forms\\FrmThongKe.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyThuVien_C#\\Forms\\FrmThongKe.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\QuanLyThuVienC-\\QuanLyThuVienC#\\QuanLyThuVien_C#\\Forms\\FrmMain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyThuVien_C#\\Forms\\FrmMain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\QuanLyThuVienC-\\QuanLyThuVienC#\\QuanLyThuVien_C#\\Forms\\FrmLogin.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyThuVien_C#\\Forms\\FrmLogin.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\QuanLyThuVienC-\\QuanLyThuVienC#\\QuanLyThuVien_C#\\Forms\\FrmLogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyThuVien_C#\\Forms\\FrmLogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\QuanLyThuVienC-\\QuanLyThuVienC#\\QuanLyThuVien_C#\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyThuVien_C#\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
@@ -14,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +54,69 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmThongKe.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\QuanLyThuVienC-\\QuanLyThuVienC#\\QuanLyThuVien_C#\\Forms\\FrmThongKe.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien_C#\\Forms\\FrmThongKe.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\QuanLyThuVienC-\\QuanLyThuVienC#\\QuanLyThuVien_C#\\Forms\\FrmThongKe.Designer.cs",
+              "RelativeToolTip": "QuanLyThuVien_C#\\Forms\\FrmThongKe.Designer.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T14:07:36.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmMain.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\QuanLyThuVienC-\\QuanLyThuVienC#\\QuanLyThuVien_C#\\Forms\\FrmMain.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien_C#\\Forms\\FrmMain.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\QuanLyThuVienC-\\QuanLyThuVienC#\\QuanLyThuVien_C#\\Forms\\FrmMain.cs",
+              "RelativeToolTip": "QuanLyThuVien_C#\\Forms\\FrmMain.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T14:03:05.329Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FrmMain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\QuanLyThuVienC-\\QuanLyThuVienC#\\QuanLyThuVien_C#\\Forms\\FrmMain.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien_C#\\Forms\\FrmMain.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\QuanLyThuVienC-\\QuanLyThuVienC#\\QuanLyThuVien_C#\\Forms\\FrmMain.Designer.cs",
+              "RelativeToolTip": "QuanLyThuVien_C#\\Forms\\FrmMain.Designer.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T14:03:02.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\QuanLyThuVienC-\\QuanLyThuVienC#\\QuanLyThuVien_C#\\Forms\\FrmLogin.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien_C#\\Forms\\FrmLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\QuanLyThuVienC-\\QuanLyThuVienC#\\QuanLyThuVien_C#\\Forms\\FrmLogin.Designer.cs",
+              "RelativeToolTip": "QuanLyThuVien_C#\\Forms\\FrmLogin.Designer.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T14:02:48.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\QuanLyThuVienC-\\QuanLyThuVienC#\\QuanLyThuVien_C#\\Forms\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien_C#\\Forms\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\QuanLyThuVienC-\\QuanLyThuVienC#\\QuanLyThuVien_C#\\Forms\\FrmLogin.cs",
+              "RelativeToolTip": "QuanLyThuVien_C#\\Forms\\FrmLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T14:02:38.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\QuanLyThuVienC-\\QuanLyThuVienC#\\QuanLyThuVien_C#\\App.config",
               "RelativeDocumentMoniker": "QuanLyThuVien_C#\\App.config",
@@ -42,8 +124,7 @@
               "RelativeToolTip": "QuanLyThuVien_C#\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-03-22T14:02:09.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-22T14:02:09.72Z"
             }
           ]
         }
