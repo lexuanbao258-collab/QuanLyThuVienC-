@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BaitaplonC#\\QuanLyThuVienC#\\QuanLyThuVien_C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B7E2E7-A644-4BB0-8A7E-15C1A4F2B8F1}|QuanLyThuVien.csproj|d:\\baitaplonc#\\quanlythuvienc#\\quanlythuvien_c#\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6B7E2E7-A644-4BB0-8A7E-15C1A4F2B8F1}|QuanLyThuVien.csproj|solutionrelative:forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B7E2E7-A644-4BB0-8A7E-15C1A4F2B8F1}|QuanLyThuVien.csproj|d:\\baitaplonc#\\quanlythuvienc#\\quanlythuvien_c#\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6B7E2E7-A644-4BB0-8A7E-15C1A4F2B8F1}|QuanLyThuVien.csproj|solutionrelative:forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B7E2E7-A644-4BB0-8A7E-15C1A4F2B8F1}|QuanLyThuVien.csproj|d:\\baitaplonc#\\quanlythuvienc#\\quanlythuvien_c#\\forms\\frmmuonsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6B7E2E7-A644-4BB0-8A7E-15C1A4F2B8F1}|QuanLyThuVien.csproj|solutionrelative:forms\\frmmuonsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmMain.cs [Design]",
+              "DocumentMoniker": "D:\\BaitaplonC#\\QuanLyThuVienC#\\QuanLyThuVien_C#\\Forms\\FrmMain.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmMain.cs",
+              "ToolTip": "D:\\BaitaplonC#\\QuanLyThuVienC#\\QuanLyThuVien_C#\\Forms\\FrmMain.cs [Design]",
+              "RelativeToolTip": "Forms\\FrmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T13:39:18.973Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmLogin.cs [Design]",
+              "DocumentMoniker": "D:\\BaitaplonC#\\QuanLyThuVienC#\\QuanLyThuVien_C#\\Forms\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmLogin.cs",
+              "ToolTip": "D:\\BaitaplonC#\\QuanLyThuVienC#\\QuanLyThuVien_C#\\Forms\\FrmLogin.cs [Design]",
+              "RelativeToolTip": "Forms\\FrmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T13:39:17.075Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmMuonSach.cs [Design]",
+              "DocumentMoniker": "D:\\BaitaplonC#\\QuanLyThuVienC#\\QuanLyThuVien_C#\\Forms\\FrmMuonSach.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmMuonSach.cs",
+              "ToolTip": "D:\\BaitaplonC#\\QuanLyThuVienC#\\QuanLyThuVien_C#\\Forms\\FrmMuonSach.cs [Design]",
+              "RelativeToolTip": "Forms\\FrmMuonSach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T13:28:48.773Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
