@@ -95,7 +95,7 @@ partial class FrmMain
         btnMenuThongKe.Name = "btnMenuThongKe";
         btnMenuThongKe.Size = new Size(257, 61);
         btnMenuThongKe.TabIndex = 12;
-        btnMenuThongKe.Text = "Thống kê";
+        btnMenuThongKe.Text = "hihi";
         btnMenuThongKe.UseVisualStyleBackColor = true;
         // 
         // btnMenuPhieuPhat
